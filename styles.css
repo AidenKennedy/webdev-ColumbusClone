@@ -11,7 +11,7 @@ nav {
 
 ul {
     list-style-type: none;
-    padding: 5px 0px;
+    padding: .04vw 0vw;
     display: inline;
 }
 
@@ -43,4 +43,6 @@ a {
 #herobackground {
     height: 10vw;
     width: 10vw;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
