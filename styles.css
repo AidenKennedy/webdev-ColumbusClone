@@ -1,12 +1,12 @@
 body {
-    margin: 0vw;
-    padding: 0vw;
+    margin: 0px;
+    padding: 0px;
 }
 
 nav {
     background-color: #10243B;
     color: white;
-    padding: 0vw 0vw .9vw 0vw;
+    padding: 0vw 0vw .5vw 0vw;
 }
 
 ul {
@@ -18,7 +18,7 @@ ul {
 ul li {
     font-size: .9vw;
     display: inline;
-    padding: .4vw .9vw;
+    padding: .9vw;
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
     font-weight: bold;
@@ -27,7 +27,7 @@ ul li {
 
 .maristnavlogo {
     height: 2vw;
-    padding: 0vw 0vw 0vw 0vw;
+    padding: 0px 0px 0px 0px;
 }
 
 #leftbluenav {
@@ -40,9 +40,26 @@ a {
     
 }
 
-#herobackground {
-    height: 10vw;
-    width: 10vw;
-    background-repeat: no-repeat;
+#hero {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(images/graduation.jpg);
     background-size: cover;
+    background-position: center;
 }
+
+#herocchslogo {
+    position: relative;
+    top: 100px;
+    left: 25px;
+}
+
+#herotext {
+    position: absolute;
+    top: 170px; 
+    left: 200px;
+    Color: white;
+    text-shadow: 1px 1px black;
+}
+
+
