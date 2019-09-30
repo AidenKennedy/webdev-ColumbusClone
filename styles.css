@@ -1,4 +1,4 @@
-body {
+* {
     margin: 0px;
     padding: 0px;
 }
@@ -62,4 +62,38 @@ a {
     text-shadow: 1px 1px black;
 }
 
+#explorecchs {
+    height: 400px;
+    width: 100vw;
+    background-color: #a3dde8;
+}
 
+#exploreheader {
+    height: 80px;
+    width: 100vw;
+    text-align: center;
+    background-color: #10243B;
+    color: white;
+    padding:  1vw 0vw 0vw 0vw;
+    font-family: 'Open Sans', sans-serif;
+    font-size: .7vw;
+}
+
+#exploresection {
+    height: 32px;
+    width: 320vw;
+}
+
+.explorebox {
+    height: 290px;
+    width: 25%;
+    background-color: blue;
+    display: inline-block;
+}
+
+#hurricane {
+    background-image: url(images/patriots\ plaza.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+}
