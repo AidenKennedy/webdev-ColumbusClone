@@ -80,19 +80,41 @@ a {
 }
 
 #exploresection {
-    height: 32px;
-    width: 320vw;
+    height: 500px;
+    width: 100%;
 }
 
 .explorebox {
-    height: 290px;
-    width: 25%;
+    height: 300px;
+    width: 23.5%;
+    padding: 0px 11px;
     background-color: blue;
     display: inline-block;
 }
 
 #hurricane {
     background-image: url(images/patriots\ plaza.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+}
+
+#ccnn {
+    background-image: url(images/ccnn.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+}
+
+#guidence {
+    background-image: url(images/college.png);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+}
+
+#media {
+    background-image: url(images/ccnn\ live.png);
     background-size: cover;
     background-position: center;
     display: inline-block;
