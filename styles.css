@@ -21,8 +21,7 @@ ul li {
     padding: .9vw;
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
-    font-weight: bold;
-    
+    font-weight: bold; 
 }
 
 .maristnavlogo {
@@ -120,37 +119,28 @@ a {
     display: inline-block;
 }
 
-
-
-
-
-
-
-
-
-#cchsgh{
+#cchsgh {
     text-align: center;
     padding-top: 25px;
     color: #10243B;
     font-family: 'PT Sans Narrow', sans-serif;
-    
-
 }
-#glance{
+
+#glance {
     display: inline-block;
     width: 24.5%;
     height: 100%;
     float: left;
-    
-
 }
-.carosel{
+
+.carosel {
     width: 287.69px;
     height: 282px;
     text-align: center;
     
 }
-.text{
+
+.text {
     text-align: center;
     color: #333333;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -160,19 +150,16 @@ a {
     margin-left: 0 px;
     padding: 0px;
 }
-.heading{
+
+.heading {
     color: red;
     font-size: 25px;
     font-family: 'Open Sans', sans-serif;
     text-emphasis: center;
     margin-left: 0px;
 }
-#dotd{
-    float: right;
-    margin-top: 5%;
-    padding-right: 48%;
-}
-#courses{
+
+#courses {
     background-color: #10243B;
     width: 75%;
     height: 20vh;
@@ -181,60 +168,45 @@ a {
     margin-top: 500px;
     margin-bottom: 75px;
     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.8);
-    
 }
-.ap{
+
+.ap {
     color: white;
     font-family: 'PT Sans Narrow', sans-serif;
     font-weight: bold;
     padding-top: 75px;
     font-size: 30px;
     letter-spacing: .05em;
-    
-    
-    
 }
-#cchsg{
+
+#cchsg {
     margin-left: 50px;margin-left:50px;
 }
-.hat{
+
+.hat {
     text-align: left;
 }
-.money{
+
+.money {
     text-align: left;
 }
-.odot{
-    background-image: url(images/1dot.PNG);
-    background-position: center;
-    background-size: cover;
-    display: inline-block;
-    float: right;
-    margin-right: 8px;
-    margin-top: 10px;
-    width: 11px;
-    height: 11px;
 
-
-}
-.dotbox{
-    margin-right: 47.5%;
-}
-.scoolh{
+.scoolh {
     color: #10243B;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     margin-bottom: 50px;
     margin-top: 65px;
 }
-.logos{
+
+.logos {
     display: inline-block;
     margin: 25px;
     width: 16.5%;
     height: 80px;
-
-
 }
-#schools{
+
+#schools {
     text-align: center;
     border-top: solid goldenrod 1px;
     width: 100%;
@@ -244,12 +216,8 @@ a {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
     line-height: 20px;
-    color: #333333;
-    
+    color: #333333; 
 }
-
-
-
 
 #footer {
     width: 100%;
@@ -263,16 +231,13 @@ a {
     height: 50px;
 }
 
-#leftfoot,
-#rightfoot {
+#leftfoot, #rightfoot {
     display: inline-block;
     padding-top: 12.5px;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 1rem;
     font-family: 'PT Sans Narrow', sans-serif;
-    
-   
 }
 
 #rightfoot {
@@ -286,12 +251,12 @@ a {
     background-color: #333;
 }
 
-#cchscontact{
+#cchscontact {
     padding-top: 50px;
     padding-left: 10%;
 }
 
-#sitemap{
+#sitemap {
     padding-right: 10%;
 }
 
@@ -322,11 +287,11 @@ a {
     text-decoration: none; 
 }
 
-#footerpic{
+#footerpic {
     color:  #0088cc;
 }
 
-#seal{
+#seal {
     float: right;
     padding-top: 5%;
     margin-left: 10%;
